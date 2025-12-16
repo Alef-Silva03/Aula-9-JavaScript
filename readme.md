@@ -24,5 +24,7 @@ Sair de um diretório
 ============================
 Voltar para o primeiro diretório
 cd\
+============================
+RD nome do diretorio: remover o deretorio
 
 2º entra na pasta aula9javascript
